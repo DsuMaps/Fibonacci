@@ -42,9 +42,17 @@ class Program
 
     public static void nextThreeNumbers(int num) //If N is multiplied by ((1 + sqrt(5)) / 2) and round it, the result will be the next fibonacci number
     {
-        double x = Math.Round(num * (1 + Math.Sqrt(5)) / 2);
-        double y = Math.Round(x * (1 + Math.Sqrt(5)) / 2);
-        double z = Math.Round(y * (1 + Math.Sqrt(5)) / 2);
+        double x = 1;
+        double y = 1;
+        double z = 2;
+
+        if (num != 0)
+        {
+            x = Math.Round(num * (1 + Math.Sqrt(5)) / 2);
+            y = Math.Round(x * (1 + Math.Sqrt(5)) / 2);
+            z = Math.Round(y * (1 + Math.Sqrt(5)) / 2);
+        }
+        
         Console.WriteLine($"{x}, {y}, {z} are the next 3 Fibonacci numbers.");
     }
 }
