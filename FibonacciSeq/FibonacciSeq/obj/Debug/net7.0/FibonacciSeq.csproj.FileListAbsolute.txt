@@ -1,0 +1,15 @@
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/bin/Debug/net7.0/FibonacciSeq
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/bin/Debug/net7.0/FibonacciSeq.deps.json
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/bin/Debug/net7.0/FibonacciSeq.runtimeconfig.json
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/bin/Debug/net7.0/FibonacciSeq.dll
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/bin/Debug/net7.0/FibonacciSeq.pdb
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.csproj.AssemblyReference.cache
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.AssemblyInfoInputs.cache
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.AssemblyInfo.cs
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.csproj.CoreCompileInputs.cache
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.dll
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/refint/FibonacciSeq.dll
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.pdb
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/FibonacciSeq.genruntimeconfig.cache
+/Users/kingjj/Projects/Fibonacci/FibonacciSeq/FibonacciSeq/obj/Debug/net7.0/ref/FibonacciSeq.dll
